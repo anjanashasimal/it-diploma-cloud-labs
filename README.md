@@ -1,1 +1,1 @@
-# -it-diploma-cloud-labs
+# it-diploma-cloud-labs
